@@ -1,0 +1,66 @@
+p{
+    font-size: 15px;
+   
+   }
+.container p{
+
+    background-repeat: auto;
+    width: auto;
+    vertical-align: top;
+    font-size: 20px;
+}
+hr{
+    color-adjust: blue;
+
+
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+#img2 {
+float:left ;
+ margin: 20px;
+}
+a{
+    color: rgb(27, 36, 163);
+}
+#img3{
+    float: left;
+    margin: 20px;
+}
+#img4{
+    float: left;
+    margin: 20px;
+}
+#img5{
+    float: left;
+    margin: 20px;
+}
+#img6{
+    float: left;
+    margin: 20px;
+}
+#img7{
+    float: left;
+    margin: 20px;
+}
+#img8{
+    float:left;
+    margin: 20px;
+}
+#img9{
+    float: left;
+    margin: 20px;
+}
+#img10{
+    float: left;
+    margin: 20px;
+}
+#img11{
+    float:left;
+    margin: 20px;
+}
+#title{
+    text-align: center;
+}

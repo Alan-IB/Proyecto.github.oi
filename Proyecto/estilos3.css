@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0;
+    background: url(images/marvel.jpg);   
+    background-size: 100%;
+    background-position: top;
+    font-family: sans-serif;
+    height: 100;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+
+}
+.container{
+    margin: 20px;
+    font-size: 20px;
+
+}
+
+h2{
+    text-align: center;
+}
+.item{
+    margin: 20px;
+     padding: 0px;
+     float: left;
+    
+}
+.list{
+ font-size: 30px;
+
+}
+#bord{
+    height: 105vh;
+    width: .5vw;
+    border-width: 0;
+    color: crimson;
+    background-color: crimson;
+}

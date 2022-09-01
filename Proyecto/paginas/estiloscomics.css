@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0;
+    background: url(../images/comics-marvel.jpg);
+    background-size: 100%;
+    background-position: top;
+    font-family: sans-serif;
+    height: 100;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+
+}
+iframe{
+    width: 60%;
+    height: 150vh;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: rgb(9, 172, 209);
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+a{
+    text-align: end;
+    font-size: 50px;
+}
