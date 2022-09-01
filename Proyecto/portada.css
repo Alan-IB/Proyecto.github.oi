@@ -1,0 +1,37 @@
+#titulo{
+    text-align: center;
+    color: rgb(255, 0, 51);
+}
+body{
+    background-color: rgb(250, 215, 249);
+}
+#cbtis{
+    height: 220px;
+    margin: 52px;
+    float: right;
+}
+#hr1{
+    color: rgb(1, 141, 201);
+    border: solid;
+}
+#h2{
+    color: darkcyan;
+    margin: 20px;
+}
+#h21{
+    color:rgb(134, 13, 190);
+    margin: 30px;
+}
+#li{
+    color: rgb(198, 0, 198);
+    margin: 35px;
+}
+#h22 {
+    color: rgb(215, 78, 9);
+    margin: 30px;
+}
+#h23 {
+    color: rgb(5, 217, 23);
+    margin: 30px;
+    
+}
